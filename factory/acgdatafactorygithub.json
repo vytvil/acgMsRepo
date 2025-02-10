@@ -1,0 +1,9 @@
+{
+	"name": "acgdatafactorygithub",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a3aad7b1-8f3f-42f9-9cec-98f8378e8e83",
+		"tenantId": "84f1e4ea-8554-43e1-8709-f0b8589ea118"
+	}
+}
